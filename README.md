@@ -18,6 +18,7 @@ Datasets used: Office Products, CD & Vinyl
 
 # Data Preprocessing & EDA:
 The collected datasets are cleaned and preprocessed in python using python libraries like pandas and Exploratory Data Analysis has been performed using Tableau.
+https://public.tableau.com/app/profile/sruthi.varsha.g/viz/eda____final/Dashboard4?publish=yes
 
 # Modelling:
 1. Sentiment Analysis (To analyse and classify the sentiments of the reviews posted by the customers)
